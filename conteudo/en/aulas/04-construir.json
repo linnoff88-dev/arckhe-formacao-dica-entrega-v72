@@ -18,7 +18,7 @@
       "t": "First ask whether you can skip building"
     },
     {
-      "t": "See if an INEMA open kit already does the job"
+      "t": "See if an ARCKHÉ open kit already does the job"
     },
     {
       "t": "The minimum for a custom flow that doesn't lock you in"
@@ -44,7 +44,7 @@
           "icone": "pasta",
           "titulo": "Open kit",
           "sub": "does it already exist?",
-          "detalhe": "INEMA maintains open kits for clinics, gyms, physical therapy, nutrition, restaurants, and hotels. The atende-clinica kit handles scheduling, questions, a queue for a person, and reminders by rules, with no AI model, and it runs on a computer or on a VPS."
+          "detalhe": "ARCKHÉ maintains open kits for clinics, gyms, physical therapy, nutrition, restaurants, and hotels. The atende-clinica kit handles scheduling, questions, a queue for a person, and reminders by rules, with no AI model, and it runs on a computer or on a VPS."
         },
         {
           "icone": "camadas",
@@ -226,27 +226,27 @@
       "links": [
         {
           "t": "Atende Clínica open kit (guide)",
-          "href": "https://inematds.github.io/atende-clinica/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "pasta"
         },
         {
           "t": "Reserva Restaurante open kit (guide)",
-          "href": "https://inematds.github.io/reserva-restaurante/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "pasta"
         },
         {
           "t": "Agents course with n8n (building the flow)",
-          "href": "https://inematds.github.io/curso-agentes-n8n/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "Professional 2030 · Mentor: test before you connect",
-          "href": "https://inematds.github.io/prof2030-mentor/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "check"
         },
         {
           "t": "Selling with AI 4: pricing your service",
-          "href": "https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/en/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "seta"
         }
       ]

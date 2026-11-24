@@ -1,63 +1,63 @@
 {
   "id": "formacao-dica-entrega-v72",
   "lang": "pt-BR",
-  "url": "https://inematds.github.io/formacao-dica-entrega-v72/",
+  "url": "https://linnoff88-dev.github.io/
   "nome": "DICA 2 · Implantar, Capacitar e Acompanhar",
   "sub": "Formação DICA · curso 2 de 2",
   "volta": {
     "t": "Área Consultoria de IA",
-    "href": "https://eventos.inema.pro/consultoria-ia/"
+    "href": "https://eventos.ARCKHÉ.pro/consultoria-ia/"
   },
   "lado_card": {
     "rot": "Formação DICA",
     "t": "Curso 2 de 2",
     "texto": "Este curso começa onde o DICA 1 termina: com o mapa de oportunidades da Clínica Vila Serena (fictícia) e uma recomendação escolhida.",
     "link": "Ir para o DICA 1 · Diagnóstico",
-    "href": "https://inematds.github.io/formacao-dica-diagnostico-v72/"
+    "href": "https://linnoff88-dev.github.io/
   },
-  "rodape": "INEMA.CLUB · conteúdo aberto e gratuito · formato INEMA Learning v7.2 · <a href=\"https://eventos.inema.pro/consultoria-ia/\">eventos.inema.pro/consultoria-ia</a> · <a href=\"https://eventos.inema.pro/prof2030/\">Profissional 2030</a> · <a href=\"https://inema.club/\">inema.club</a>",
+  "rodape": "ARCKHÉ AI · conteúdo aberto e gratuito · formato ARCKHÉ Learning v7.2 · <a href=\"https://eventos.ARCKHÉ.pro/consultoria-ia/\">eventos.ARCKHÉ.pro/consultoria-ia</a> · <a href=\"https://eventos.ARCKHÉ.pro/prof2030/\">Profissional 2030</a> · <a href=\"https://ARCKHÉ AI/\">ARCKHÉ AI</a>",
   "videos": {
     "consultoria-ia-na-pratica": {
       "titulo": "Consultoria de IA na prática",
       "duracao": "4 min 29 s",
-      "mp4": "https://github.com/inematds/consultoria-ia-na-pratica/releases/download/video-v2.0.0/consultoria-ia-na-pratica-completo-16x9.mp4",
+      "mp4": "https://github.com/linnoff88-dev/consultoria-ia-na-pratica/releases/download/video-v2.0.0/consultoria-ia-na-pratica-completo-16x9.mp4",
       "vtt": "assets/vtt/consultoria-ia-na-pratica.vtt",
       "poster": "assets/img/consultoria-ia-na-pratica.jpg",
-      "pagina": "https://inematds.github.io/consultoria-ia-na-pratica/videos/",
+      "pagina": "https://linnoff88-dev.github.io/
       "idiomas": {
         "en": {
-          "mp4": "https://github.com/inematds/consultoria-ia-na-pratica/releases/download/video-v2.0.0/consultoria-ia-na-pratica-completo-16x9-en.mp4",
+          "mp4": "https://github.com/linnoff88-dev/consultoria-ia-na-pratica/releases/download/video-v2.0.0/consultoria-ia-na-pratica-completo-16x9-en.mp4",
           "vtt": "assets/vtt/consultoria-ia-na-pratica-en.vtt",
           "duracao": "3 min 18 s",
-          "pagina": "https://inematds.github.io/consultoria-ia-na-pratica/videos/en/"
+          "pagina": "https://linnoff88-dev.github.io/
         },
         "es": {
-          "mp4": "https://github.com/inematds/consultoria-ia-na-pratica/releases/download/video-v2.0.0/consultoria-ia-na-pratica-completo-16x9-es.mp4",
+          "mp4": "https://github.com/linnoff88-dev/consultoria-ia-na-pratica/releases/download/video-v2.0.0/consultoria-ia-na-pratica-completo-16x9-es.mp4",
           "vtt": "assets/vtt/consultoria-ia-na-pratica-es.vtt",
           "duracao": "3 min 38 s",
-          "pagina": "https://inematds.github.io/consultoria-ia-na-pratica/videos/es/"
+          "pagina": "https://linnoff88-dev.github.io/
         }
       }
     },
     "consultor-ia-2027": {
       "titulo": "De construtor a consultor",
       "duracao": "5 min 1 s",
-      "mp4": "https://github.com/inematds/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9.mp4",
+      "mp4": "https://github.com/linnoff88-dev/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9.mp4",
       "vtt": "assets/vtt/consultor-ia-2027.vtt",
       "poster": "assets/img/consultor-ia-2027.jpg",
-      "pagina": "https://inematds.github.io/consultor-ia-2027/videos/",
+      "pagina": "https://linnoff88-dev.github.io/
       "idiomas": {
         "en": {
-          "mp4": "https://github.com/inematds/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9-en.mp4",
+          "mp4": "https://github.com/linnoff88-dev/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9-en.mp4",
           "vtt": "assets/vtt/consultor-ia-2027-en.vtt",
           "duracao": "3 min 41 s",
-          "pagina": "https://inematds.github.io/consultor-ia-2027/videos/en/"
+          "pagina": "https://linnoff88-dev.github.io/
         },
         "es": {
-          "mp4": "https://github.com/inematds/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9-es.mp4",
+          "mp4": "https://github.com/linnoff88-dev/consultor-ia-2027/releases/download/video-v2.0.0/consultor-ia-2027-completo-16x9-es.mp4",
           "vtt": "assets/vtt/consultor-ia-2027-es.vtt",
           "duracao": "4 min 3 s",
-          "pagina": "https://inematds.github.io/consultor-ia-2027/videos/es/"
+          "pagina": "https://linnoff88-dev.github.io/
         }
       }
     }
@@ -69,7 +69,7 @@
     "cta": "Começar pela aula 1",
     "cta2": {
       "t": "Ver o DICA 1 · Diagnóstico",
-      "href": "https://inematds.github.io/formacao-dica-diagnostico-v72/"
+      "href": "https://linnoff88-dev.github.io/
     },
     "capa_alt": "Recepção de uma pequena clínica ao entardecer, com caderno aberto e celular sobre o balcão.",
     "numeros": [
@@ -86,7 +86,7 @@
         "itens": [
           "Dono de pequeno negócio (clínica, imobiliária, padaria, oficina, loja) que quer pôr IA no próprio negócio com método, sem TI e sem susto.",
           "Consultor iniciante que atende pequenos negócios e já sabe vender o diagnóstico: aqui aprende a entregar.",
-          "Quem fez o <a href=\"https://inematds.github.io/formacao-dica-diagnostico-v72/\">DICA 1 · Diagnóstico</a> e saiu com um mapa de oportunidades."
+          "Quem fez o <a href=\"https://linnoff88-dev.github.io/ 1 · Diagnóstico</a> e saiu com um mapa de oportunidades."
         ]
       },
       {
@@ -101,18 +101,18 @@
       {
         "t": "Onde entra no Profissional 2030",
         "itens": [
-          "O <a href=\"https://eventos.inema.pro/prof2030/\">Profissional 2030</a> tem quatro papéis que vendem confiança, não construção. A Formação DICA é o papel <b>Consultor</b> no recorte pequeno negócio.",
+          "O <a href=\"https://eventos.ARCKHÉ.pro/prof2030/\">Profissional 2030</a> tem quatro papéis que vendem confiança, não construção. A Formação DICA é o papel <b>Consultor</b> no recorte pequeno negócio.",
           "Construir é parte do serviço; o que fica é o diagnóstico, o ensino e o acompanhamento.",
-          "Curso anterior: <a href=\"https://inematds.github.io/formacao-dica-diagnostico-v72/\">DICA 1 · Diagnóstico</a>."
+          "Curso anterior: <a href=\"https://linnoff88-dev.github.io/ 1 · Diagnóstico</a>."
         ]
       },
       {
         "t": "O que ficou em outros cursos",
         "itens": [
-          "Preço, proposta e venda do acompanhamento: <a href=\"https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/\">Vendas com IA 4</a> e <a href=\"https://inematds.github.io/formacao-vendas-ia-masterclass-v72/\">Vendas com IA 5</a>.",
-          "Alçada e confiança progressiva do agente: <a href=\"https://inematds.github.io/gestao-ia-agentes-v72/\">Gestão de IA · Agentes</a>.",
-          "Testar antes de ligar: <a href=\"https://inematds.github.io/prof2030-mentor/\">Profissional 2030 · Mentor</a>. Medir 30/60/90: <a href=\"https://inematds.github.io/prof2030-consultor/\">Profissional 2030 · Consultor</a>.",
-          "LGPD a fundo: <a href=\"https://inematds.github.io/prof2030-auditor/\">Profissional 2030 · Auditor</a>."
+          "Preço, proposta e venda do acompanhamento: <a href=\"https://linnoff88-dev.github.io/ com IA 4</a> e <a href=\"https://linnoff88-dev.github.io/ com IA 5</a>.",
+          "Alçada e confiança progressiva do agente: <a href=\"https://linnoff88-dev.github.io/ de IA · Agentes</a>.",
+          "Testar antes de ligar: <a href=\"https://linnoff88-dev.github.io/ 2030 · Mentor</a>. Medir 30/60/90: <a href=\"https://linnoff88-dev.github.io/ 2030 · Consultor</a>.",
+          "LGPD a fundo: <a href=\"https://linnoff88-dev.github.io/ 2030 · Auditor</a>."
         ]
       }
     ]

@@ -18,7 +18,7 @@
       "t": "Perguntar primeiro se dá para não construir"
     },
     {
-      "t": "Ver se um kit aberto do INEMA já serve"
+      "t": "Ver se um kit aberto do ARCKHÉ já serve"
     },
     {
       "t": "O mínimo de um fluxo próprio que não te prende"
@@ -44,7 +44,7 @@
           "icone": "pasta",
           "titulo": "Kit aberto",
           "sub": "já existe?",
-          "detalhe": "O INEMA mantém kits abertos para clínica, academia, fisioterapia, nutrição, restaurante e hotel. O atende-clinica faz agenda, dúvidas, fila para pessoa e lembrete por regras, sem modelo de IA, e roda no computador ou numa VPS."
+          "detalhe": "O ARCKHÉ mantém kits abertos para clínica, academia, fisioterapia, nutrição, restaurante e hotel. O atende-clinica faz agenda, dúvidas, fila para pessoa e lembrete por regras, sem modelo de IA, e roda no computador ou numa VPS."
         },
         {
           "icone": "camadas",
@@ -226,27 +226,27 @@
       "links": [
         {
           "t": "Kit aberto Atende Clínica (guia)",
-          "href": "https://inematds.github.io/atende-clinica/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "pasta"
         },
         {
           "t": "Kit aberto Reserva Restaurante (guia)",
-          "href": "https://inematds.github.io/reserva-restaurante/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "pasta"
         },
         {
           "t": "Curso de agentes com n8n (construir o fluxo)",
-          "href": "https://inematds.github.io/curso-agentes-n8n/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "camadas"
         },
         {
           "t": "Profissional 2030 · Mentor: testar antes de ligar",
-          "href": "https://inematds.github.io/prof2030-mentor/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "check"
         },
         {
           "t": "Vendas com IA 4: preço do seu serviço",
-          "href": "https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "seta"
         }
       ]

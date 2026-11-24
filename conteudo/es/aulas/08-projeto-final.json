@@ -322,7 +322,7 @@
         },
         {
           "t": "Kit abierto",
-          "texto": "Los \"paquetes listos\" pasaron a ser diagnóstico + kit abierto de INEMA + acompañamiento, con 15 casos probados antes de encender."
+          "texto": "Los \"paquetes listos\" pasaron a ser diagnóstico + kit abierto de ARCKHÉ + acompañamiento, con 15 casos probados antes de encender."
         },
         {
           "t": "LGPD (la ley de protección de datos de Brasil) y proyecto",
@@ -336,32 +336,32 @@
       "links": [
         {
           "t": "DICA 1 · Diagnóstico: el Mapa del Cliente (curso anterior)",
-          "href": "https://inematds.github.io/formacao-dica-diagnostico-v72/es/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "seta"
         },
         {
           "t": "Versión anterior: Mapa del Cliente (2026, solo PT)",
-          "href": "https://inematds.github.io/mapacliente/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "voltar"
         },
         {
           "t": "Profesional 2030 · Consultor: el proyecto final de Horizonte",
-          "href": "https://inematds.github.io/prof2030-consultor/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "alvo"
         },
         {
           "t": "Área Consultoría de IA",
-          "href": "https://eventos.inema.pro/consultoria-ia/",
+          "href": "https://eventos.ARCKHÉ.pro/consultoria-ia/",
           "icone": "camadas"
         },
         {
           "t": "Profesional 2030: los cuatro roles",
-          "href": "https://eventos.inema.pro/prof2030/",
+          "href": "https://eventos.ARCKHÉ.pro/prof2030/",
           "icone": "usuario"
         },
         {
-          "t": "Cursos abiertos en INEMA.CLUB",
-          "href": "https://inema.club/",
+          "t": "Cursos abiertos en ARCKHÉ AI",
+          "href": "https://ARCKHÉ AI/",
           "icone": "seta"
         }
       ]
