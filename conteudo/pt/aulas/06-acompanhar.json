@@ -5,7 +5,7 @@
   "titulo": "Acompanhar: check-in de 20 minutos, 5 indicadores, 3 alertas",
   "titulo_curto": "Acompanhar toda semana",
   "minutos": 17,
-  "lead": "Sem número, numa semana ruim a impressão da dona vira \"não está funcionando\". Com número, você mostra o que mudou desde a linha de base. O acompanhamento é um ritual curto e fixo: 20 minutos na mesma hora, cinco números, um ajuste e uma página de relatório. E três sinais que pedem visita, não desconto.",
+  "lead": "Sem número, numa semana ruim a impressêo da dona vira \"nêo está funcionando\". Com número, você mostra o que mudou desde a linha de base. O acompanhamento é um ritual curto e fixo: 20 minutos na mesma hora, cinco números, um ajuste e uma página de relatório. E três sinais que pedem visita, nêo desconto.",
   "objetivo": "conduzir o check-in de 20 minutos, medir 5 indicadores contra a linha de base e reagir aos 3 alertas.",
   "competencias": [
     "conduzir-check-in",
@@ -27,7 +27,7 @@
       "t": "Os 3 alertas e a cadência que diminui"
     }
   ],
-  "hero_alt": "Reunião curta numa mesa pequena de clínica: três pessoas olham uma folha com um gráfico de barras simples.",
+  "hero_alt": "Reuniêo curta numa mesa pequena de clínica: três pessoas olham uma folha com um gráfico de barras simples.",
   "secoes": [
     {
       "tipo": "diagrama",
@@ -38,7 +38,7 @@
           "icone": "caneta",
           "titulo": "Registro",
           "sub": "a semana",
-          "detalhe": "O registro de dúvidas da campeã e o registro do assistente (o que entrou, o que saiu, o que foi editado). É a matéria-prima do check-in."
+          "detalhe": "O registro de dúvidas da campeê e o registro do assistente (o que entrou, o que saiu, o que foi editado). É a matéria-prima do check-in."
         },
         {
           "icone": "grafico",
@@ -57,29 +57,29 @@
           "icone": "check",
           "titulo": "1 ajuste",
           "sub": "por semana",
-          "detalhe": "Uma mudança por vez no playbook ou no manual, com versão nova. Duas mudanças juntas e ninguém sabe qual funcionou."
+          "detalhe": "Uma mudança por vez no playbook ou no manual, com versêo nova. Duas mudanças juntas e ninguém sabe qual funcionou."
         },
         {
           "icone": "arquivo",
           "titulo": "Relatório",
           "sub": "1 página",
-          "detalhe": "Mesmo formato toda semana, enviado à dona mesmo que ela não leia no começo. Somadas, as páginas contam a história do projeto."
+          "detalhe": "Mesmo formato toda semana, enviado à dona mesmo que ela nêo leia no começo. Somadas, as páginas contam a história do projeto."
         }
       ],
       "volta": "Na semana seguinte, o ciclo recomeça no mesmo dia e hora.",
-      "legenda": "Ritual curto e fixo segura a clínica mais que reunião longa quando algo quebra."
+      "legenda": "Ritual curto e fixo segura a clínica mais que reuniêo longa quando algo quebra."
     },
     {
       "tipo": "passos",
-      "titulo": "Os 5 indicadores da recepção",
-      "sub": "Cinco, não trinta. Coletados em poucos minutos pela campeã, conferidos por você. Sem meta pronta: a comparação é com o número de antes.",
+      "titulo": "Os 5 indicadores da recepçêo",
+      "sub": "Cinco, nêo trinta. Coletados em poucos minutos pela campeê, conferidos por você. Sem meta pronta: a comparaçêo é com o número de antes.",
       "passos": [
         {
           "titulo": "Respostas",
           "sub": "por dia",
           "texto": [
             "Quantas mensagens o assistente preparou ou respondeu. Mostra se ele está sendo usado.",
-            "Sozinho engana: muito volume com muita edição não é ganho."
+            "Sozinho engana: muito volume com muita ediçêo nêo é ganho."
           ]
         },
         {
@@ -87,7 +87,7 @@
           "sub": "até responder",
           "texto": [
             "Tempo entre a mensagem do paciente e a primeira resposta, no horário de atendimento.",
-            "Na fase 1 inclui o tempo de aprovação: é ele que mostra se a fila está pesando."
+            "Na fase 1 inclui o tempo de aprovaçêo: é ele que mostra se a fila está pesando."
           ]
         },
         {
@@ -103,19 +103,19 @@
           "sub": "do assistente",
           "texto": [
             "Horários marcados que começaram numa conversa com o assistente, conferidos na agenda.",
-            "Mostra se a conversa vira atendimento, não só resposta."
+            "Mostra se a conversa vira atendimento, nêo só resposta."
           ]
         },
         {
           "titulo": "Horas",
-          "sub": "da recepção",
+          "sub": "da recepçêo",
           "texto": [
-            "Estimativa da campeã de quanto tempo da recepção ficou livre na semana, dita como estimativa.",
+            "Estimativa da campeê de quanto tempo da recepçêo ficou livre na semana, dita como estimativa.",
             "É o número que a dona sente; por isso vai com o jeito de contar escrito."
           ],
           "exemplo": {
             "rot": "Linha de base",
-            "texto": "Cada indicador precisa do valor de antes, medido do mesmo jeito e no mesmo tipo de semana. Sem ele, o relatório mostra movimento, não resultado. Medir 30/60/90 a fundo: Profissional 2030 · Consultor, aula 6."
+            "texto": "Cada indicador precisa do valor de antes, medido do mesmo jeito e no mesmo tipo de semana. Sem ele, o relatório mostra movimento, nêo resultado. Medir 30/60/90 a fundo: Profissional 2030 · Consultor, aula 6."
           }
         }
       ]
@@ -126,16 +126,16 @@
       "sub": "Qualquer um pede visita, regra prática do consultor: de preferência presencial, em até dois dias, gratuita.",
       "passos": [
         {
-          "titulo": "Campeã sumiu",
+          "titulo": "Campeê sumiu",
           "sub": "sem resposta",
           "texto": [
-            "Cancelou dois check-ins seguidos, parou de preencher o registro ou não responde mensagem, mesmo dizendo que está tudo bem.",
+            "Cancelou dois check-ins seguidos, parou de preencher o registro ou nêo responde mensagem, mesmo dizendo que está tudo bem.",
             "Muitas vezes é sobrecarga ou saída à vista: volte à folha de papéis."
           ]
         },
         {
           "titulo": "Número caiu",
-          "sub": "sem explicação",
+          "sub": "sem explicaçêo",
           "texto": [
             "Um indicador despencou para perto ou abaixo da linha de base sem motivo (feriado, férias, mudança na agenda).",
             "Uso caindo em silêncio costuma vir antes do abandono."
@@ -149,8 +149,8 @@
             "Quando essa frase aparece, a conversa precisa ser de frente e logo."
           ],
           "exemplo": {
-            "rot": "Reação",
-            "texto": "Escutar antes de defender o sistema, perguntar direto \"tem algo te incomodando que eu não estou vendo?\" e sair com um plano de duas semanas. Desconto de cara não resolve o motivo."
+            "rot": "Reaçêo",
+            "texto": "Escutar antes de defender o sistema, perguntar direto \"tem algo te incomodando que eu nêo estou vendo?\" e sair com um plano de duas semanas. Desconto de cara nêo resolve o motivo."
           }
         }
       ]
@@ -171,14 +171,14 @@
           "titulo": "Rotina",
           "sub": "quinzenal",
           "texto": [
-            "Com a fase 2 estável e poucas dúvidas novas, de 15 em 15 dias, com uma mensagem curta na semana sem reunião."
+            "Com a fase 2 estável e poucas dúvidas novas, de 15 em 15 dias, com uma mensagem curta na semana sem reuniêo."
           ]
         },
         {
           "titulo": "Estável",
           "sub": "mensal",
           "texto": [
-            "Fase estável e campeã segura: uma conversa por mês e um relatório mensal no lugar do semanal. É aqui que o acompanhamento vira manutenção (aula 7)."
+            "Fase estável e campeê segura: uma conversa por mês e um relatório mensal no lugar do semanal. É aqui que o acompanhamento vira manutençêo (aula 7)."
           ]
         },
         {
@@ -198,17 +198,17 @@
         {
           "rot": "Pauta do check-in de 20 min",
           "icone": "relogio",
-          "conteudo": "CHECK-IN · <empresa> · <dia> às <hora> (fixo) · semana <n>\n\n0–5 · NÚMEROS\nOs 5 indicadores ao lado da linha de base. Eu leio, a campeã confirma.\n\n5–15 · DÚVIDAS E AJUSTES\nRegistro de dúvidas da semana. Ajuste feito na hora, de tela aberta.\nMudança no playbook: v<de> → v<para> · motivo: <...>\n\n15–20 · PRÓXIMA SEMANA\n1 melhoria proposta: <...>\n1 risco para olhar: <...>\nAlerta vermelho? <não | qual e reação>\nPróximo check-in: <data e hora>\n\nDepois: resumo em 3 linhas para a dona."
+          "conteudo": "CHECK-IN · <empresa> · <dia> às <hora> (fixo) · semana <n>\n\n0–5 · NÚMEROS\nOs 5 indicadores ao lado da linha de base. Eu leio, a campeê confirma.\n\n5–15 · DÚVIDAS E AJUSTES\nRegistro de dúvidas da semana. Ajuste feito na hora, de tela aberta.\nMudança no playbook: v<de> → v<para> · motivo: <...>\n\n15–20 · PRÓXIMA SEMANA\n1 melhoria proposta: <...>\n1 risco para olhar: <...>\nAlerta vermelho? <nêo | qual e reaçêo>\nPróximo check-in: <data e hora>\n\nDepois: resumo em 3 linhas para a dona."
         },
         {
           "rot": "Planilha dos 5 indicadores",
           "icone": "grafico",
-          "conteudo": "INDICADORES · <empresa>\nLinha de base medida em <período>, por <quem>, assim: <como contou>\n\n| Indicador                     | Antes | Sem 1 | Sem 2 | Sem 3 | Sem 4 | Como medir           |\n|-------------------------------|-------|-------|-------|-------|-------|----------------------|\n| Respostas por dia (média)     |       |       |       |       |       | registro do assistente|\n| Tempo até 1ª resposta (min)   |       |       |       |       |       | registro do assistente|\n| Contatos sem retorno no dia   |       |       |       |       |       | contagem da campeã    |\n| Marcações vindas do assistente|       |       |       |       |       | agenda + registro     |\n| Horas da recepção liberadas   |       |       |       |       |       | estimativa da campeã  |"
+          "conteudo": "INDICADORES · <empresa>\nLinha de base medida em <período>, por <quem>, assim: <como contou>\n\n| Indicador                     | Antes | Sem 1 | Sem 2 | Sem 3 | Sem 4 | Como medir           |\n|-------------------------------|-------|-------|-------|-------|-------|----------------------|\n| Respostas por dia (média)     |       |       |       |       |       | registro do assistente|\n| Tempo até 1ª resposta (min)   |       |       |       |       |       | registro do assistente|\n| Contatos sem retorno no dia   |       |       |       |       |       | contagem da campeê    |\n| Marcações vindas do assistente|       |       |       |       |       | agenda + registro     |\n| Horas da recepçêo liberadas   |       |       |       |       |       | estimativa da campeê  |"
         },
         {
           "rot": "Relatório semanal de 1 página",
           "icone": "arquivo",
-          "conteudo": "RELATÓRIO SEMANAL · <empresa> · semana <n> · <data>\n\nNÚMEROS (antes → esta semana)\n- Respostas por dia: <a> → <b>\n- Tempo até 1ª resposta: <a> → <b> min\n- Contatos sem retorno no dia: <a> → <b>\n- Marcações vindas do assistente: <b>\n- Horas da recepção liberadas (estimativa): <b>\n\nFEITO ESTA SEMANA\n- <ajuste> (playbook v<n>)\n\nPRÓXIMA SEMANA\n- <1 melhoria> · <1 risco para olhar>\n\nFASE: <1 | 2 | 3> · alerta vermelho: <não | qual>"
+          "conteudo": "RELATÓRIO SEMANAL · <empresa> · semana <n> · <data>\n\nNÚMEROS (antes → esta semana)\n- Respostas por dia: <a> → <b>\n- Tempo até 1ª resposta: <a> → <b> min\n- Contatos sem retorno no dia: <a> → <b>\n- Marcações vindas do assistente: <b>\n- Horas da recepçêo liberadas (estimativa): <b>\n\nFEITO ESTA SEMANA\n- <ajuste> (playbook v<n>)\n\nPRÓXIMA SEMANA\n- <1 melhoria> · <1 risco para olhar>\n\nFASE: <1 | 2 | 3> · alerta vermelho: <nêo | qual>"
         }
       ],
       "saida": {
@@ -216,7 +216,7 @@
         "abas": [
           {
             "rot": "Vila Serena · 4 semanas (fictício)",
-            "html": "<pre>Números inventados para o exercício.\n\n                         Antes  S1   S2   S3   S4\nContatos sem retorno/dia   12    9    7    8    5\nTempo até 1ª resp. (min)   95   60   40   45   30\nMarcações do assistente     -    6   11    9   14\n\nConta à mostra (S4 contra a linha de base):\nsem retorno: 12 − 5 = 7 a menos por dia\ntempo: 95 − 30 = 65 min mais rápido\n\nS3: subiu de 7 para 8 sem retorno → visto no\ncheck-in: feriado local fora da lista de dúvidas\n→ ajuste no playbook v1.3. Não é alerta: tem\nexplicação e voltou a cair em S4.</pre>"
+            "html": "<pre>Números inventados para o exercício.\n\n                         Antes  S1   S2   S3   S4\nContatos sem retorno/dia   12    9    7    8    5\nTempo até 1ª resp. (min)   95   60   40   45   30\nMarcações do assistente     -    6   11    9   14\n\nConta à mostra (S4 contra a linha de base):\nsem retorno: 12 − 5 = 7 a menos por dia\ntempo: 95 − 30 = 65 min mais rápido\n\nS3: subiu de 7 para 8 sem retorno → visto no\ncheck-in: feriado local fora da lista de dúvidas\n→ ajuste no playbook v1.3. Nêo é alerta: tem\nexplicaçêo e voltou a cair em S4.</pre>"
           }
         ]
       }
@@ -237,21 +237,21 @@
           "id": "e2",
           "titulo": "2 · Quatro relatórios simulados",
           "min": "40 min",
-          "texto": "Escreva 4 relatórios semanais de uma página, um por semana simulada. Em uma das semanas, ponha um dos 3 alertas e escreva a reação.",
-          "pronto": "os 4 relatórios têm o mesmo formato, os 5 números ao lado da linha de base, 1 coisa feita e 1 próxima; na semana com alerta, a reação está escrita (visita, escuta, plano de 2 semanas) e nenhum relatório oferece desconto."
+          "texto": "Escreva 4 relatórios semanais de uma página, um por semana simulada. Em uma das semanas, ponha um dos 3 alertas e escreva a reaçêo.",
+          "pronto": "os 4 relatórios têm o mesmo formato, os 5 números ao lado da linha de base, 1 coisa feita e 1 próxima; na semana com alerta, a reaçêo está escrita (visita, escuta, plano de 2 semanas) e nenhum relatório oferece desconto."
         }
       ]
     },
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
         {
           "p": "Por que cada indicador precisa do valor de antes?",
           "opcoes": [
-            "Porque a ferramenta do assistente não funciona sem um valor inicial.",
-            "Porque, sem ele, o relatório mostra movimento e não resultado.",
+            "Porque a ferramenta do assistente nêo funciona sem um valor inicial.",
+            "Porque, sem ele, o relatório mostra movimento e nêo resultado.",
             "Porque a LGPD exige registrar os números anteriores do negócio.",
             "Porque a dona só aceita números que ela mesma mediu antes."
           ],
@@ -260,34 +260,34 @@
           "explica": "Linha de base é o número de antes, medido do mesmo jeito. É contra ela que se diz se o assistente mudou algo."
         },
         {
-          "p": "A campeã cancelou os dois últimos check-ins, mas diz que está tudo bem. O que fazer?",
+          "p": "A campeê cancelou os dois últimos check-ins, mas diz que está tudo bem. O que fazer?",
           "opcoes": [
             "Esperar mais uma semana, já que ela disse que está tudo bem.",
-            "Mandar o relatório por e-mail e não marcar mais reuniões.",
+            "Mandar o relatório por e-mail e nêo marcar mais reuniões.",
             "Oferecer um desconto na próxima mensalidade para segurar a clínica.",
             "Tratar como alerta vermelho e marcar uma visita para escutar."
           ],
           "certa": 3,
           "ref": "passos",
-          "explica": "Campeã sumida é um dos 3 alertas, mesmo com \"tudo bem\". A reação é ir lá e escutar; desconto não resolve o motivo."
+          "explica": "Campeê sumida é um dos 3 alertas, mesmo com \"tudo bem\". A reaçêo é ir lá e escutar; desconto nêo resolve o motivo."
         },
         {
           "p": "Na semana 3, os contatos sem retorno subiram de 7 para 8. Isso é alerta vermelho?",
           "opcoes": [
             "Sim: qualquer subida em qualquer indicador pede visita na hora.",
             "Sim, e o assistente deve voltar para a fase 1 imediatamente.",
-            "Não, se tem explicação e segue bem melhor que a linha de base; vira ajuste no check-in.",
-            "Não, porque números de uma semana nunca importam no acompanhamento."
+            "Nêo, se tem explicaçêo e segue bem melhor que a linha de base; vira ajuste no check-in.",
+            "Nêo, porque números de uma semana nunca importam no acompanhamento."
           ],
           "certa": 2,
           "ref": "codigo",
-          "explica": "Alerta é queda forte e sem explicação. Oscilação pequena, com causa achada (o feriado fora da lista), vira um ajuste no playbook."
+          "explica": "Alerta é queda forte e sem explicaçêo. Oscilaçêo pequena, com causa achada (o feriado fora da lista), vira um ajuste no playbook."
         },
         {
-          "p": "A clínica está estável há meses e a campeã está segura. Qual a cadência?",
+          "p": "A clínica está estável há meses e a campeê está segura. Qual a cadência?",
           "opcoes": [
             "Mensal, com relatório mensal no lugar do semanal.",
-            "Semanal para sempre, para a clínica não perder o hábito.",
+            "Semanal para sempre, para a clínica nêo perder o hábito.",
             "Nenhuma: o projeto acabou com a entrega.",
             "Diária, para pegar qualquer erro no mesmo dia."
           ],
@@ -311,7 +311,7 @@
         },
         {
           "t": "3 alertas",
-          "texto": "Campeã sumida, número caindo sem explicação e \"vou pensar\": visita e escuta, não desconto."
+          "texto": "Campeê sumida, número caindo sem explicaçêo e \"vou pensar\": visita e escuta, nêo desconto."
         },
         {
           "t": "Cadência",
@@ -329,7 +329,7 @@
           "icone": "grafico"
         },
         {
-          "t": "Gestão de IA · Governança: os indicadores do agente",
+          "t": "Gestêo de IA · Governança: os indicadores do agente",
           "href": "https://linnoff88-dev.github.io/
           "icone": "alvo"
         },

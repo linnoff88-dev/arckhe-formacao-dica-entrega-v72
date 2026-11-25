@@ -2,11 +2,11 @@
   "slug": "capacitar",
   "num": 5,
   "menu": "Capacitar",
-  "titulo": "Capacitar: a dona, o campeão interno e o treino de 90 minutos",
+  "titulo": "Capacitar: a dona, o campeêo interno e o treino de 90 minutos",
   "titulo_curto": "Capacitar a equipe",
   "minutos": 17,
-  "lead": "Assistente sem alguém de dentro cuidando dele fica órfão: tudo montado, nada sustentando. No pequeno negócio esse alguém é a dona ou uma pessoa de confiança. Escolher essa pessoa faz parte da entrega, e o treino de 90 minutos, o manual de uma página e o registro de dúvidas são o que deixa a clínica andar sem você.",
-  "objetivo": "escolher o campeão interno, conduzir o treino de 90 minutos e deixar o manual de 1 página e o registro de dúvidas funcionando.",
+  "lead": "Assistente sem alguém de dentro cuidando dele fica órfêo: tudo montado, nada sustentando. No pequeno negócio esse alguém é a dona ou uma pessoa de confiança. Escolher essa pessoa faz parte da entrega, e o treino de 90 minutos, o manual de uma página e o registro de dúvidas sêo o que deixa a clínica andar sem você.",
+  "objetivo": "escolher o campeêo interno, conduzir o treino de 90 minutos e deixar o manual de 1 página e o registro de dúvidas funcionando.",
   "competencias": [
     "escolher-campeao-interno",
     "conduzir-treino-pratico",
@@ -15,36 +15,36 @@
   ],
   "aprende": [
     {
-      "t": "Escolher o campeão com 3 perguntas"
+      "t": "Escolher o campeêo com 3 perguntas"
     },
     {
       "t": "Dividir os papéis numa folha"
     },
     {
-      "t": "Dar o treino de 90 minutos com as mãos no bolso"
+      "t": "Dar o treino de 90 minutos com as mêos no bolso"
     },
     {
       "t": "Deixar manual e registro de dúvidas vivos"
     }
   ],
-  "hero_alt": "Recepcionista usa o computador do balcão enquanto um consultor observa com as mãos nos bolsos.",
+  "hero_alt": "Recepcionista usa o computador do balcêo enquanto um consultor observa com as mêos nos bolsos.",
   "secoes": [
     {
       "tipo": "diagrama",
-      "titulo": "Da escolha do campeão ao registro de dúvidas",
+      "titulo": "Da escolha do campeêo ao registro de dúvidas",
       "sub": "Cinco peças, nesta ordem. Clique em cada uma.",
       "nos": [
         {
           "icone": "usuario",
-          "titulo": "Campeão",
+          "titulo": "Campeêo",
           "sub": "com nome",
-          "detalhe": "A pessoa que abre a fila todo dia, ajusta uma resposta e traz para o check-in o que viu de estranho. Em negócio de até umas três pessoas, quase sempre é a própria dona. Nome próprio, não cargo."
+          "detalhe": "A pessoa que abre a fila todo dia, ajusta uma resposta e traz para o check-in o que viu de estranho. Em negócio de até umas três pessoas, quase sempre é a própria dona. Nome próprio, nêo cargo."
         },
         {
           "icone": "lista",
           "titulo": "Papéis",
           "sub": "por escrito",
-          "detalhe": "Uma folha com quatro linhas: dona, campeão, consultor e equipe, cada um com o que faz e em quanto tempo responde. Sem isso, todo problema vira \"achei que era você\"."
+          "detalhe": "Uma folha com quatro linhas: dona, campeêo, consultor e equipe, cada um com o que faz e em quanto tempo responde. Sem isso, todo problema vira \"achei que era você\"."
         },
         {
           "icone": "relogio",
@@ -57,20 +57,20 @@
           "icone": "arquivo",
           "titulo": "Manual",
           "sub": "1 página",
-          "detalhe": "Uma folha no balcão: 4 a 6 passos do dia, o contato para emergência e as dúvidas mais comuns. Manual de 20 páginas ninguém abre."
+          "detalhe": "Uma folha no balcêo: 4 a 6 passos do dia, o contato para emergência e as dúvidas mais comuns. Manual de 20 páginas ninguém abre."
         },
         {
           "icone": "caneta",
           "titulo": "Dúvidas",
           "sub": "registro vivo",
-          "detalhe": "Toda dúvida e todo erro estranho vão para um registro simples. O check-in da aula 6 trabalha em cima dele."
+          "detalhe": "Toda dúvida e todo erro estranho vêo para um registro simples. O check-in da aula 6 trabalha em cima dele."
         }
       ],
-      "legenda": "Capacitar faz parte da entrega. Sem campeão, o assistente fica órfão na primeira troca de funcionário."
+      "legenda": "Capacitar faz parte da entrega. Sem campeêo, o assistente fica órfêo na primeira troca de funcionário."
     },
     {
       "tipo": "passos",
-      "titulo": "O campeão certo",
+      "titulo": "O campeêo certo",
       "sub": "Regra prática do consultor, tirada da experiência do material anterior do DICA.",
       "passos": [
         {
@@ -78,7 +78,7 @@
           "sub": "antes de entregar",
           "texto": [
             "\"Quem vai cuidar do assistente todo dia, com nome?\" \"Qual a chance de essa pessoa continuar aqui no próximo ano?\" \"Ela sabe que vai ser responsável e topou?\"",
-            "Se alguma resposta for fraca, a dona é a campeã até aparecer alguém melhor."
+            "Se alguma resposta for fraca, a dona é a campeê até aparecer alguém melhor."
           ]
         },
         {
@@ -93,12 +93,12 @@
           "titulo": "Caso ilustrativo",
           "sub": "a recepcionista que saiu",
           "texto": [
-            "Uma clínica escolheu como campeã uma recepcionista recém-chegada. Ela usou bem nas primeiras semanas, avisou que ia sair e ninguém treinou a substituta.",
-            "Sem ninguém cuidando, as respostas ficaram velhas e a clínica concluiu que \"a IA não funcionou\". O problema era o campeão, não o assistente."
+            "Uma clínica escolheu como campeê uma recepcionista recém-chegada. Ela usou bem nas primeiras semanas, avisou que ia sair e ninguém treinou a substituta.",
+            "Sem ninguém cuidando, as respostas ficaram velhas e a clínica concluiu que \"a IA nêo funcionou\". O problema era o campeêo, nêo o assistente."
           ],
           "exemplo": {
-            "rot": "Proteção",
-            "texto": "A folha de papéis diz o que acontece quando o campeão sai: novo treino de 90 minutos com quem entra, antes de a pessoa ir embora."
+            "rot": "Proteçêo",
+            "texto": "A folha de papéis diz o que acontece quando o campeêo sai: novo treino de 90 minutos com quem entra, antes de a pessoa ir embora."
           }
         }
       ]
@@ -112,7 +112,7 @@
           "titulo": "0 a 30",
           "sub": "você mostra",
           "texto": [
-            "Abra a fila e explique cada parte com as palavras da clínica, sem jargão.",
+            "Abra a fila e explique cada parte com as palavras da clínica, sem jargêo.",
             "Mostre um caso inteiro: a mensagem chega, o assistente prepara, alguém aprova, a resposta sai, fica no registro."
           ]
         },
@@ -120,7 +120,7 @@
           "titulo": "30 a 60",
           "sub": "ela faz",
           "texto": [
-            "A campeã faz tudo sozinha. Você assiste com as mãos no bolso, mesmo quando ela erra.",
+            "A campeê faz tudo sozinha. Você assiste com as mêos no bolso, mesmo quando ela erra.",
             "Anote as dúvidas reais que aparecerem: elas abrem o registro de dúvidas."
           ]
         },
@@ -128,12 +128,12 @@
           "titulo": "60 a 90",
           "sub": "dúvidas e data",
           "texto": [
-            "Respostas, um ajuste na frente dela e o manual em mãos.",
+            "Respostas, um ajuste na frente dela e o manual em mêos.",
             "O treino só termina com o primeiro check-in marcado, com dia e hora fixos."
           ],
           "exemplo": {
             "rot": "Sinal de treino bom",
-            "texto": "Ela fez tudo sozinha no segundo terço e saiu com duas ou três dúvidas de verdade. \"Tá tudo certo\" sem nenhuma pergunta é sinal de que não aprendeu."
+            "texto": "Ela fez tudo sozinha no segundo terço e saiu com duas ou três dúvidas de verdade. \"Tá tudo certo\" sem nenhuma pergunta é sinal de que nêo aprendeu."
           }
         }
       ]
@@ -145,7 +145,7 @@
       "passos": [
         {
           "titulo": "Manual",
-          "sub": "folha no balcão",
+          "sub": "folha no balcêo",
           "texto": [
             "Uma página impressa perto de quem atende vale mais que um arquivo perdido no computador.",
             "Atualize quando a tela ou o jeito de aprovar mudar."
@@ -156,22 +156,22 @@
           "sub": "4 colunas",
           "texto": [
             "Data, o que aconteceu, contexto e o que foi feito. Uma planilha simples ou uma conversa fixa no celular.",
-            "Sem nome nem telefone de paciente: descreva o caso, não a pessoa."
+            "Sem nome nem telefone de paciente: descreva o caso, nêo a pessoa."
           ]
         },
         {
           "titulo": "3 iguais",
           "sub": "viram ajuste",
           "texto": [
-            "Quando a mesma dúvida aparece três vezes, ela vira ajuste no playbook ou no manual, não só resposta solta.",
+            "Quando a mesma dúvida aparece três vezes, ela vira ajuste no playbook ou no manual, nêo só resposta solta.",
             "Se você atende mais de uma clínica do mesmo nicho, ela vira peça da sua biblioteca (aula 7)."
           ]
         },
         {
           "titulo": "Gravar",
-          "sub": "só com autorização",
+          "sub": "só com autorizaçêo",
           "texto": [
-            "Gravar a tela ou guardar prints de conversas reais para treinar outras pessoas só com autorização escrita da dona e com nome, telefone e marca escondidos.",
+            "Gravar a tela ou guardar prints de conversas reais para treinar outras pessoas só com autorizaçêo escrita da dona e com nome, telefone e marca escondidos.",
             "Conversa de paciente é dado pessoal e, na clínica, pode ser dado de saúde (LGPD)."
           ]
         }
@@ -180,27 +180,27 @@
     {
       "tipo": "codigo",
       "titulo": "Modelos para copiar",
-      "sub": "Folha de papéis, roteiro do treino, manual e registro. Os da Vila Serena são fictícios.",
+      "sub": "Folha de papéis, roteiro do treino, manual e registro. Os da Vila Serena sêo fictícios.",
       "blocos": [
         {
           "rot": "Folha de papéis",
           "icone": "usuario",
-          "conteudo": "PAPÉIS DO ASSISTENTE · <empresa> · <data>\n\n| Papel      | Nome     | O que faz                              | Responde em |\n|------------|----------|----------------------------------------|-------------|\n| Dona       | <nome>   | decide escopo, fase e o que é importante | <prazo>   |\n| Campeã     | <nome>   | abre a fila, aprova, anota dúvidas     | <prazo>     |\n| Consultor  | <nome>   | ajusta playbook, resolve falha técnica | <prazo>     |\n| Equipe     | <nomes>  | usa conforme o manual                  | <prazo>     |\n\nSe a campeã sair: treino de 90 min com quem entra, antes da saída.\nRevisão desta folha: no check-in de cada mês.\nAssinado (vale como compromisso, não como contrato): <dona> · <campeã> · <consultor>"
+          "conteudo": "PAPÉIS DO ASSISTENTE · <empresa> · <data>\n\n| Papel      | Nome     | O que faz                              | Responde em |\n|------------|----------|----------------------------------------|-------------|\n| Dona       | <nome>   | decide escopo, fase e o que é importante | <prazo>   |\n| Campeê     | <nome>   | abre a fila, aprova, anota dúvidas     | <prazo>     |\n| Consultor  | <nome>   | ajusta playbook, resolve falha técnica | <prazo>     |\n| Equipe     | <nomes>  | usa conforme o manual                  | <prazo>     |\n\nSe a campeê sair: treino de 90 min com quem entra, antes da saída.\nRevisêo desta folha: no check-in de cada mês.\nAssinado (vale como compromisso, nêo como contrato): <dona> · <campeê> · <consultor>"
         },
         {
           "rot": "Roteiro do treino de 90 min",
           "icone": "relogio",
-          "conteudo": "TREINO · <empresa> · <data> · local: <presencial, no balcão>\n\n0–30 · EU MOSTRO\n- abrir a fila; o que é cada botão, com as palavras da clínica\n- um caso inteiro: <mensagem de exemplo> → aprovar → sai → registro\n\n30–60 · ELA FAZ (mãos no bolso)\n- tarefa 1: aprovar 3 mensagens da fila\n- tarefa 2: editar 1 resposta e ver no registro\n- tarefa 3: chamar uma pessoa num caso de reclamação\n- dúvidas que apareceram: <...>\n\n60–90 · DÚVIDAS E DATA\n- respostas e 1 ajuste ao vivo\n- entregar o manual de 1 página\n- primeiro check-in: <dia da semana> às <hora>, toda semana"
+          "conteudo": "TREINO · <empresa> · <data> · local: <presencial, no balcêo>\n\n0–30 · EU MOSTRO\n- abrir a fila; o que é cada botêo, com as palavras da clínica\n- um caso inteiro: <mensagem de exemplo> → aprovar → sai → registro\n\n30–60 · ELA FAZ (mêos no bolso)\n- tarefa 1: aprovar 3 mensagens da fila\n- tarefa 2: editar 1 resposta e ver no registro\n- tarefa 3: chamar uma pessoa num caso de reclamaçêo\n- dúvidas que apareceram: <...>\n\n60–90 · DÚVIDAS E DATA\n- respostas e 1 ajuste ao vivo\n- entregar o manual de 1 página\n- primeiro check-in: <dia da semana> às <hora>, toda semana"
         },
         {
           "rot": "Manual de 1 página · Vila Serena",
           "icone": "arquivo",
-          "conteudo": "COMO USAR O ASSISTENTE · Clínica Vila Serena (fictícia)\n\n1. Ao abrir a recepção, abra a fila do assistente.\n2. Leia as mensagens da noite e aprove (✓) ou ajuste (✎).\n3. Preço, reclamação ou pergunta de saúde: responda você.\n4. Anote qualquer dúvida no registro (data, o que houve).\n5. Check-in toda <dia> às <hora>.\n\nPARAR TUDO: <como desligar e voltar a responder pelo celular>\nEMERGÊNCIA: <nome do consultor> · <contato>\n\nDÚVIDAS COMUNS\n- \"Ele respondeu algo estranho.\" → não apague: anote e ajuste.\n- \"Paciente pediu para falar com gente.\" → responda você na hora.\n- \"A fila está vazia.\" → confira se o celular está conectado."
+          "conteudo": "COMO USAR O ASSISTENTE · Clínica Vila Serena (fictícia)\n\n1. Ao abrir a recepçêo, abra a fila do assistente.\n2. Leia as mensagens da noite e aprove (✓) ou ajuste (✎).\n3. Preço, reclamaçêo ou pergunta de saúde: responda você.\n4. Anote qualquer dúvida no registro (data, o que houve).\n5. Check-in toda <dia> às <hora>.\n\nPARAR TUDO: <como desligar e voltar a responder pelo celular>\nEMERGÊNCIA: <nome do consultor> · <contato>\n\nDÚVIDAS COMUNS\n- \"Ele respondeu algo estranho.\" → nêo apague: anote e ajuste.\n- \"Paciente pediu para falar com gente.\" → responda você na hora.\n- \"A fila está vazia.\" → confira se o celular está conectado."
         },
         {
           "rot": "Registro de dúvidas",
           "icone": "caneta",
-          "conteudo": "DATA  | O QUE ACONTECEU                    | CONTEXTO        | O QUE FOI FEITO\n<dd/mm> | <ex.: respondeu horário de feriado errado> | <feriado local> | <ajuste no playbook v1.2>\n<dd/mm> | <ex.: paciente perguntou sobre Pix>         | <pagamento>     | <entrou na lista de dúvidas>\n<dd/mm> | <ex.: campeã não achou o botão de editar>   | <tela nova>     | <manual atualizado>\n\nSem nome nem telefone de paciente. Mesma dúvida 3 vezes → vira ajuste."
+          "conteudo": "DATA  | O QUE ACONTECEU                    | CONTEXTO        | O QUE FOI FEITO\n<dd/mm> | <ex.: respondeu horário de feriado errado> | <feriado local> | <ajuste no playbook v1.2>\n<dd/mm> | <ex.: paciente perguntou sobre Pix>         | <pagamento>     | <entrou na lista de dúvidas>\n<dd/mm> | <ex.: campeê nêo achou o botêo de editar>   | <tela nova>     | <manual atualizado>\n\nSem nome nem telefone de paciente. Mesma dúvida 3 vezes → vira ajuste."
         }
       ]
     },
@@ -211,10 +211,10 @@
       "exercicios": [
         {
           "id": "e1",
-          "titulo": "1 · Campeão, papéis e roteiro do treino",
+          "titulo": "1 · Campeêo, papéis e roteiro do treino",
           "min": "40 min",
-          "texto": "Responda às 3 perguntas do campeão, preencha a folha de papéis e adapte o roteiro do treino de 90 minutos ao assistente da sua clínica.",
-          "pronto": "a campeã tem nome e as 3 perguntas têm resposta, a folha tem as 4 linhas com prazo e o que acontece se a campeã sair, e o roteiro tem os 3 terços com pelo menos 3 tarefas que ela faz sozinha."
+          "texto": "Responda às 3 perguntas do campeêo, preencha a folha de papéis e adapte o roteiro do treino de 90 minutos ao assistente da sua clínica.",
+          "pronto": "a campeê tem nome e as 3 perguntas têm resposta, a folha tem as 4 linhas com prazo e o que acontece se a campeê sair, e o roteiro tem os 3 terços com pelo menos 3 tarefas que ela faz sozinha."
         },
         {
           "id": "e2",
@@ -228,25 +228,25 @@
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
         {
-          "p": "A dona da Vila Serena sugere como campeã a estagiária que chegou mês passado, \"porque ela entende de celular\". O que você faz?",
+          "p": "A dona da Vila Serena sugere como campeê a estagiária que chegou mês passado, \"porque ela entende de celular\". O que você faz?",
           "opcoes": [
             "Aceita: quem entende de tecnologia aprende mais rápido o assistente.",
             "Aceita, mas pede para a estagiária gravar todos os treinos em vídeo.",
-            "Faz as 3 perguntas e, se a chance de ela ficar for baixa, propõe a dona como campeã por ora.",
+            "Faz as 3 perguntas e, se a chance de ela ficar for baixa, propõe a dona como campeê por ora.",
             "Recusa a entrega até a clínica contratar alguém só para o assistente."
           ],
           "certa": 2,
           "ref": "passos",
-          "explica": "Entender de celular não é o critério: o campeão precisa ficar, ter confiança da dona e topar. Na dúvida, a dona segura o papel até aparecer alguém melhor."
+          "explica": "Entender de celular nêo é o critério: o campeêo precisa ficar, ter confiança da dona e topar. Na dúvida, a dona segura o papel até aparecer alguém melhor."
         },
         {
-          "p": "No segundo terço do treino, a campeã demora para achar o botão de editar. O que você faz?",
+          "p": "No segundo terço do treino, a campeê demora para achar o botêo de editar. O que você faz?",
           "opcoes": [
-            "Espera com as mãos no bolso e anota a dúvida para o registro.",
-            "Pega o mouse e mostra rápido, para não perder tempo do treino.",
+            "Espera com as mêos no bolso e anota a dúvida para o registro.",
+            "Pega o mouse e mostra rápido, para nêo perder tempo do treino.",
             "Pula a tarefa e segue para a próxima, que é mais fácil.",
             "Encerra o treino e marca outro para quando ela estiver pronta."
           ],
@@ -257,10 +257,10 @@
         {
           "p": "A mesma dúvida apareceu três vezes no registro. O que acontece?",
           "opcoes": [
-            "Você responde de novo, do mesmo jeito, para não confundir a equipe.",
+            "Você responde de novo, do mesmo jeito, para nêo confundir a equipe.",
             "Nada: três vezes ainda é pouco para mudar o que foi entregue.",
-            "A dona é avisada de que a campeã precisa de um novo treino completo.",
-            "Vira ajuste no playbook ou no manual, e não só uma resposta solta."
+            "A dona é avisada de que a campeê precisa de um novo treino completo.",
+            "Vira ajuste no playbook ou no manual, e nêo só uma resposta solta."
           ],
           "certa": 3,
           "ref": "passos",
@@ -269,14 +269,14 @@
         {
           "p": "Você quer guardar prints de conversas reais da Vila Serena para treinar a próxima clínica. O que precisa?",
           "opcoes": [
-            "Nada, porque os prints são para uso interno do consultor.",
-            "Autorização escrita da dona e nome, telefone e marca escondidos.",
+            "Nada, porque os prints sêo para uso interno do consultor.",
+            "Autorizaçêo escrita da dona e nome, telefone e marca escondidos.",
             "Só esconder o nome do paciente; o telefone pode ficar.",
-            "Pedir autorização verbal à campeã durante o check-in da semana seguinte."
+            "Pedir autorizaçêo verbal à campeê durante o check-in da semana seguinte."
           ],
           "certa": 1,
           "ref": "passos",
-          "explica": "Conversa de paciente é dado pessoal e pode ser dado de saúde. Sem autorização escrita e sem anonimizar, não use."
+          "explica": "Conversa de paciente é dado pessoal e pode ser dado de saúde. Sem autorizaçêo escrita e sem anonimizar, nêo use."
         }
       ]
     },
@@ -285,15 +285,15 @@
       "titulo": "Resumo",
       "itens": [
         {
-          "t": "Campeão com nome",
+          "t": "Campeêo com nome",
           "texto": "Na pequena empresa, a dona ou uma pessoa que fica, confia e topou."
         },
         {
           "t": "Papéis no papel",
-          "texto": "Quatro linhas, com prazo e o que acontece se a campeã sair."
+          "texto": "Quatro linhas, com prazo e o que acontece se a campeê sair."
         },
         {
-          "t": "Mãos no bolso",
+          "t": "Mêos no bolso",
           "texto": "90 minutos: você mostra, ela faz, e o fim marca o primeiro check-in."
         },
         {
@@ -317,7 +317,7 @@
           "icone": "escudo"
         },
         {
-          "t": "ANPD: regras para agentes de pequeno porte (Resolução CD/ANPD nº 2/2022)",
+          "t": "ANPD: regras para agentes de pequeno porte (Resoluçêo CD/ANPD nº 2/2022)",
           "href": "https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/regulamentacoes-da-anpd/resolucao-cd-anpd-no-2-de-27-de-janeiro-de-2022",
           "icone": "arquivo"
         }

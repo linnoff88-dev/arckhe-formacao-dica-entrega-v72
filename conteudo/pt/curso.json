@@ -3,15 +3,15 @@
   "lang": "pt-BR",
   "url": "https://linnoff88-dev.github.io/
   "nome": "DICA 2 · Implantar, Capacitar e Acompanhar",
-  "sub": "Formação DICA · curso 2 de 2",
+  "sub": "Formaçêo DICA · curso 2 de 2",
   "volta": {
     "t": "Área Consultoria de IA",
     "href": "https://eventos.ARCKHÉ.pro/consultoria-ia/"
   },
   "lado_card": {
-    "rot": "Formação DICA",
+    "rot": "Formaçêo DICA",
     "t": "Curso 2 de 2",
-    "texto": "Este curso começa onde o DICA 1 termina: com o mapa de oportunidades da Clínica Vila Serena (fictícia) e uma recomendação escolhida.",
+    "texto": "Este curso começa onde o DICA 1 termina: com o mapa de oportunidades da Clínica Vila Serena (fictícia) e uma recomendaçêo escolhida.",
     "link": "Ir para o DICA 1 · Diagnóstico",
     "href": "https://linnoff88-dev.github.io/
   },
@@ -63,15 +63,15 @@
     }
   },
   "inicio": {
-    "kicker": "Formação DICA · curso 2 de 2 · 8 aulas",
+    "kicker": "Formaçêo DICA · curso 2 de 2 · 8 aulas",
     "titulo": "Implantar, capacitar e acompanhar: do mapa ao assistente que anda sozinho",
-    "lead": "O diagnóstico está pronto e a dona escolheu por onde começar. Agora é escolher o primeiro assistente, escrever o playbook dele, ligar com aprovação em fases, ensinar a dona e a equipe e acompanhar até ele andar sozinho. Tudo na Clínica Vila Serena, uma clínica fictícia com 9 pessoas e a recepção no WhatsApp.",
+    "lead": "O diagnóstico está pronto e a dona escolheu por onde começar. Agora é escolher o primeiro assistente, escrever o playbook dele, ligar com aprovaçêo em fases, ensinar a dona e a equipe e acompanhar até ele andar sozinho. Tudo na Clínica Vila Serena, uma clínica fictícia com 9 pessoas e a recepçêo no WhatsApp.",
     "cta": "Começar pela aula 1",
     "cta2": {
       "t": "Ver o DICA 1 · Diagnóstico",
       "href": "https://linnoff88-dev.github.io/
     },
-    "capa_alt": "Recepção de uma pequena clínica ao entardecer, com caderno aberto e celular sobre o balcão.",
+    "capa_alt": "Recepçêo de uma pequena clínica ao entardecer, com caderno aberto e celular sobre o balcêo.",
     "numeros": [
       {"v": "8", "t": "aulas curtas"},
       {"v": "15", "t": "exercícios com \"pronto quando\""},
@@ -92,16 +92,16 @@
       {
         "t": "O que você sai fazendo",
         "itens": [
-          "Escolher o primeiro assistente pelos 3 critérios e escrever o que ele <b>não</b> faz.",
-          "Escrever o playbook em 7 partes e ligar o assistente em 3 fases de aprovação.",
-          "Treinar a dona e o campeão interno em 90 minutos e deixar um manual de 1 página.",
+          "Escolher o primeiro assistente pelos 3 critérios e escrever o que ele <b>nêo</b> faz.",
+          "Escrever o playbook em 7 partes e ligar o assistente em 3 fases de aprovaçêo.",
+          "Treinar a dona e o campeêo interno em 90 minutos e deixar um manual de 1 página.",
           "Acompanhar com check-in de 20 minutos, 5 indicadores e 3 alertas, até a cadência ficar mensal."
         ]
       },
       {
         "t": "Onde entra no Profissional 2030",
         "itens": [
-          "O <a href=\"https://eventos.ARCKHÉ.pro/prof2030/\">Profissional 2030</a> tem quatro papéis que vendem confiança, não construção. A Formação DICA é o papel <b>Consultor</b> no recorte pequeno negócio.",
+          "O <a href=\"https://eventos.ARCKHÉ.pro/prof2030/\">Profissional 2030</a> tem quatro papéis que vendem confiança, nêo construçêo. A Formaçêo DICA é o papel <b>Consultor</b> no recorte pequeno negócio.",
           "Construir é parte do serviço; o que fica é o diagnóstico, o ensino e o acompanhamento.",
           "Curso anterior: <a href=\"https://linnoff88-dev.github.io/ 1 · Diagnóstico</a>."
         ]
@@ -131,7 +131,7 @@
     "dg_dica": "Clique em cada bloco do diagrama para ver o que ele faz.",
     "copiar": "Copiar",
     "copiado": "Copiado",
-    "selo_simulacao": "Simulação: exemplo ilustrativo",
+    "selo_simulacao": "Simulaçêo: exemplo ilustrativo",
     "selo_real": "Exemplo do repositório",
     "pronto_quando": "Pronto quando:",
     "fiz": "Fiz este exercício",
@@ -140,8 +140,8 @@
     "de": "de",
     "cert_tag": "competência",
     "correto": "Correto",
-    "errado": "Não é essa",
-    "quiz_aguarda": "Escolha uma alternativa. A explicação aparece depois da sua tentativa.",
+    "errado": "Nêo é essa",
+    "quiz_aguarda": "Escolha uma alternativa. A explicaçêo aparece depois da sua tentativa.",
     "proxima_pergunta": "Próxima pergunta",
     "quiz_ver": "Ver resultado",
     "quiz_fim": "Teste concluído",
@@ -168,7 +168,7 @@
     "baixar_ics": "Baixar para o calendário (.ics)",
     "ind_estudo": "Estudo (aulas)",
     "ind_pratica": "Prática declarada",
-    "ind_nota": "Prática = exercícios que você marcou como feitos. A comprovação vem na prova da certificação.",
+    "ind_nota": "Prática = exercícios que você marcou como feitos. A comprovaçêo vem na prova da certificaçêo.",
     "estudo": {
       "titulo": "Seu estudo",
       "continuar": "Continuar de onde parei",
@@ -181,7 +181,7 @@
       "notas": "Minhas anotações",
       "dados": "Copiar meus dados",
       "sem_testes": "Nenhum teste feito ainda. O teste fica no fim de cada aula.",
-      "nao_fez": "teste ainda não feito",
+      "nao_fez": "teste ainda nêo feito",
       "ultimo": "Último",
       "melhor": "Melhor",
       "tentativas": "tentativas",
@@ -190,21 +190,21 @@
       "rever": "Para rever",
       "resposta": "Resposta certa:",
       "ir_teste": "Refazer o teste",
-      "sem_notas": "Nenhuma anotação ainda. Na aula, selecione um trecho do texto e toque em Marcar ou Anotar.",
+      "sem_notas": "Nenhuma anotaçêo ainda. Na aula, selecione um trecho do texto e toque em Marcar ou Anotar.",
       "so_marcado": "(só marcado)",
       "marcar": "Marcar",
       "anotar": "Anotar",
       "salvar": "Salvar",
       "apagar": "Apagar marca",
       "fechar": "Fechar",
-      "nota_ph": "Escreva sua anotação sobre este trecho…",
+      "nota_ph": "Escreva sua anotaçêo sobre este trecho…",
       "um_bloco": "Marque dentro de um parágrafo só.",
-      "nao_marca": "Este trecho não pode ser marcado.",
-      "dados_exp": "Seu progresso, suas anotações e as notas dos testes ficam só neste navegador. Baixe uma cópia (.json) para guardar ou para continuar em outro computador ou navegador; lá, carregue a cópia. Carregar soma com o que já existe e não apaga nada.",
+      "nao_marca": "Este trecho nêo pode ser marcado.",
+      "dados_exp": "Seu progresso, suas anotações e as notas dos testes ficam só neste navegador. Baixe uma cópia (.json) para guardar ou para continuar em outro computador ou navegador; lá, carregue a cópia. Carregar soma com o que já existe e nêo apaga nada.",
       "exportar": "Baixar cópia",
       "importar": "Carregar cópia",
       "import_ok": "Cópia carregada ({n} itens). Atualizando a página…",
-      "import_erro": "Arquivo não reconhecido. Nada foi alterado.",
+      "import_erro": "Arquivo nêo reconhecido. Nada foi alterado.",
       "import_outro": "Esta cópia é de outro curso. Nada foi alterado.",
       "export_ok": "Cópia baixada."
     },
@@ -216,7 +216,7 @@
     "conv_ruim": "Escolha fraca",
     "conv_fim": "Fim da conversa",
     "conv_placar": "Você fez {p} de {m} pontos possíveis.",
-    "conv_licao": "Lição:",
+    "conv_licao": "Liçêo:",
     "conv_recomecar": "Recomeçar a conversa",
     "conv_feita": "Seu melhor placar: {p} de {m} pontos."
   },
